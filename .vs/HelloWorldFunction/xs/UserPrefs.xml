@@ -1,0 +1,28 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{EB0F0850-BF43-4E71-B9B5-70E329168758}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldFunction/.gitignore">
+    <Files>
+      <File FileName="HelloWorldFunction/local.settings.json" Line="1" Column="1" />
+      <File FileName="HelloWorldFunction/host.json" Line="1" Column="1" />
+      <File FileName="HelloWorldFunction/HelloWorldFunction.cs" Line="1" Column="1" />
+      <File FileName="HelloWorldFunction/.gitignore" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloWorldFunction" expanded="True">
+            <Node name="HelloWorldFunction" expanded="True">
+              <Node name=".gitignore" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HelloWorldFunction PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
